@@ -189,7 +189,7 @@ ul li:hover a {
 
 }
 
-.aboutme-rotate {}
+
 
 .marquee-custom {
     background-color: black;
@@ -303,5 +303,49 @@ ul li:hover a {
 
 
 }
+
+.abt-btn-footer {
+    color: white;
+    border: none;
+    border-radius: 1rem;
+    color: white;
+    font-size: 3rem;
+}
+
+.abt-btn-contact {
+    background-color: black;
+    border: none;
+    border-radius: 0.5rem;
+    color: white;
+    padding: 1rem;
+    
+}
+
+.abt-btn2-contact {
+    background-color: deepskyblue;
+    border: none;
+    border-radius: 0.5rem;
+    color: black;
+    padding: 1rem;
+    
+}
+#gitlab-btn:hover {
+	color: orange;
+	text-shadow: 0 0 120px white;
+}
+
+#facebook-btn:hover {
+	color: deepskyblue;
+}
+
+#instagram-btn:hover {
+	color: #833AB4;
+}
+
+.copyright-footer{
+
+	font-size: 0.8rem;
+}
+
 
 /*end of footer*/
